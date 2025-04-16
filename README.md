@@ -47,21 +47,21 @@ Welcome to Finance Tracker!
 3. View Summary
 4. Exit
 ```
-🧠 Future Improvements
+ # 🧠 Future Improvements
 -Add data visualization (e.g., Matplotlib/Plotly charts)
 -Monthly/Weekly summaries
 -Export reports to PDF or Excel
 -GUI version using Tkinter
 -Web version with Flask/Django
 
-🤝 Contributing
+# 🤝 Contributing
 -Feel free to fork, contribute, or suggest ideas!
 -Fork this repo
 -Create a feature branch
 -Submit a Pull Request 🚀
 
-📜 License
+# 📜 License
 Licensed under the MIT License.
 
-👨‍💻 Author
+# 👨‍💻 Author
 Built by BenTennyson100 🧠💻
